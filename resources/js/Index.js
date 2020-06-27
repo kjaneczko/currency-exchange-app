@@ -158,7 +158,7 @@ class Index extends React.Component {
                 <div className="row justify-content-center">
                     <div className="col-md-8">
                         <div className="card">
-                            <div className="card-header">Currency Exchange App</div>
+                            <div className="card-header">Currency Exchange App by Kacper Janeczko</div>
                             <div className="card-body">
                                 <div className="row">
                                     <div className="col">
